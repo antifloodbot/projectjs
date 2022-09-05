@@ -3,3 +3,4 @@ git commit -a -m"commit comment"
 git log
 https://github.com/antifloodbot/projectjs.git
 git push -u origin main
+git branch -M main
